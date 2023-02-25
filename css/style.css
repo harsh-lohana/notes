@@ -7,19 +7,19 @@
 }
 
 body {
-    background: linear-gradient(to left, cornflowerblue, deepskyblue);
+    background: linear-gradient(to right, rgba(67,233,123,0.5), rgba(56,249,215,0.5));
     font-family: 'Roboto Mono', monospace;
 }
 
 .heading {
-    color: darkblue;
+    color: darkgreen;
     text-align: center;
     padding: 20px;
     font-size: 35px;
 }
 
 .sub-text {
-    color: darkblue;
+    color: darkgreen;
     text-align: center;
     font-size: 18px;
 }
